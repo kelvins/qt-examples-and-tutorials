@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>warning.png</file>
+        <file>stop.png</file>
+        <file>add.png</file>
+    </qresource>
+</RCC>

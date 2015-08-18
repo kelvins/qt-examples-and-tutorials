@@ -1,1 +1,1 @@
-# Qt-Examples-and-Tutorials
+# Qt Examples and Tutorials

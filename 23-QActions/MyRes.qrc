@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>disk.png</file>
+        <file>page_white.png</file>
+        <file>folder.png</file>
+    </qresource>
+</RCC>
